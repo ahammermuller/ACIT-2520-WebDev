@@ -1,0 +1,8 @@
+
+The distance between your two points: (24 , 8) , (5 , 19) is 21.2602916254693
+The distance between your two points: (24 , 8) , (5 , 19) is 21.2602916254693
+The distance between your two points: (24 , 8) , (5 , 19) is 21.2602916254693
+The distance between your two points: (C:\Program Files\nodejs\node.exe,C:\Users\aline\Documents\BCIT\ACIT 2520 - Dev Web Applications\week2\lab2\main.js,24,8,5,19 , undefined) , (undefined , undefined) is NaN
+The distance between your two points: (24 , 8) , (5 , 19) is 21.2602916254693
+The distance between your two points: (24 , 8) , (5 , 19) is 21.2602916254693
+The distance between your two points: (2 , 2) , (2 , 2) is 0
